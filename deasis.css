@@ -1,0 +1,17 @@
+.btn{
+    text-decoration: none;
+    border: 3px solid #12CBC4;
+    padding: 5px;
+    border-radius: 8px;
+    color: #d63031;
+}
+
+.btn:hover{
+    background-color: #12CBC4;
+    color: #d63031;
+}
+
+@font-face {
+    font-family: Fira_Sans;
+    src: url('Fira_Sans/FiraSans-Black.ttf');
+}

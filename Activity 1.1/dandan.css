@@ -1,0 +1,18 @@
+.nav-background{
+    background-color: red;
+}
+
+.Cartoons{
+    padding-left: 200px;
+}
+.card-custom-border {
+  border: 2px solid #f52525; /* Light grey color */
+}
+
+.btn-custom-light-border {
+  border: 2px solid #d3d3d3; /* Light grey border color */
+}
+.btn-custom-light-border:hover {
+  border-color: #df1c1cc7; /* Slightly darker grey on hover */
+}
+</style>
